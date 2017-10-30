@@ -1,3 +1,5 @@
 All about spring : http://www.baeldung.com/
 
+Tomcat jndi : https://tomcat.apache.org/tomcat-9.0-doc/jndi-datasource-examples-howto.html#MySQL_DBCP_Example
+
 Spring doc : https://docs.spring.io/spring-framework/docs/4.3.11.RELEASE/spring-framework-reference/html/
