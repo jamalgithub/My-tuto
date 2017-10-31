@@ -1,0 +1,21 @@
+C:\Program Files\Apache\apache-tomcat-xxxxx\bin
+
+install service named 'Tomcat9'
+******************************
+tomcatHome\bin> service.bat install Tomcat9
+
+Remove service named 'Tomcat9'
+*****************************
+tomcat8 //DS//Tomcat9
+
+start service with its name
+***************************
+net start tomcat9
+
+stop service with its name
+**************************
+net stop tomcat9
+
+List all inactive service
+*************************
+sc query type= service state= inactive

@@ -1,6 +1,0 @@
-#install service with name "Tomcat9_service"
-tomcatHome\bin> service.bat install "Tomcat9_service"
-#List all inactive service
-sc query type= service state= inactive
-#start or stop a service with its name
-net start/stop Tomcat9_service
