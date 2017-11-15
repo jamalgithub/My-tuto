@@ -16,3 +16,20 @@ https://springframework.guru/
 http://www.logicbig.com/
 
 http://www.baeldung.com
+
+https://www.springbyexample.org/
+
+Apache common validator:
+************************
+
+https://commons.apache.org/proper/commons-validator/apidocs/org/apache/commons/validator/routines/package-summary.html#package_description
+
+Hibernate validator:
+********************
+
+https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-gettingstarted-createproject
+
+RegEx:
+******
+
+http://www.regexplanet.com/advanced/java/index.html
