@@ -24,6 +24,10 @@ http://www.baeldung.com
 
 https://www.springbyexample.org/
 
+http://o7planning.org/en/10351/spring-mvc-file-upload-download-tutorial
+
+http://www.technicalkeeda.com/tutorials/spring-4-mvc-tutorials
+
 Apache common validator:
 ************************
 
@@ -38,3 +42,9 @@ RegEx:
 ******
 
 http://www.regexplanet.com/advanced/java/index.html
+
+Git:
+****
+
+http://www.geo.uzh.ch/microsite/reproducible_research/post/rr-eclipse-git/
+https://www.supinfo.com/articles/single/5342-utilisation-git-avec-eclipse
