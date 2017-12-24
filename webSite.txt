@@ -7,6 +7,8 @@ Java Blog:
 
 https://www.java2blog.com
 
+http://www.henryxi.com/
+
 Spring doc :
 ************
 
