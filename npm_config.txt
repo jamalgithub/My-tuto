@@ -1,0 +1,11 @@
+npm proxy
+*********
+
+npm config set proxy http://mourad.elmahouti:Tetouan@2018@192.168.100.90:8080
+
+npm config set https-proxy http://mourad.elmahouti:Tetouan@2018@192.168.100.90:8080
+
+test proxy
+**********
+
+npm config get https-proxy
