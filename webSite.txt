@@ -75,3 +75,17 @@ Angular:
 https://codecraft.tv
 https://alligator.io/angular/
 
+
+Optimaze Images:
+****************
+
+https://tinypng.com
+
+Reskin:
+*******
+
+https://thinkmobiles.com/blog/reskin-app
+
+Apps sources:
+------------
+https://www.chupamobile.com/
